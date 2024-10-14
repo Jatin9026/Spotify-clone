@@ -1,2 +1,2 @@
 # Spotify-clone
-I developed this clone using html &amp; css.
+I developed this clone using html and css.
